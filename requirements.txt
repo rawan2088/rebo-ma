@@ -1,0 +1,6 @@
+streamlit
+facenet-pytorch
+torch
+pillow
+scikit-learn
+numpy
